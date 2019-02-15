@@ -1,7 +1,7 @@
 {
   "name": "membrane",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Dynamically Connected JS Objects",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,10 +9,10 @@
     "examples": "node examples/index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Louis Rudner",
+  "license": "MIT",
   "devDependencies": {
-    "tap": "^10.7.2",
+    "tap": "^12.5.2",
     "tape": "^4.8.0"
   }
 }
