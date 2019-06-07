@@ -12,7 +12,7 @@
   "author": "Louis Rudner",
   "license": "MIT",
   "devDependencies": {
-    "tap": "^12.5.2",
-    "tape": "^4.8.0"
+    "tap": "^14.2.2",
+    "tape": "^4.10.2"
   }
 }
